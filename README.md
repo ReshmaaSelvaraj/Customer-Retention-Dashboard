@@ -1,10 +1,10 @@
 # Customer Retention Dashboard  
 
-![Customer Retention Dashboard Preview](https://github.com/ReshmaaSelvaraj/Customer-Retention-Dashboard/raw/main/dashboard-preview.png)  
-*A snapshot of the Customer Retention Dashboard built using Power BI.*  
-
 ## Project Overview  
-The **Customer Retention Dashboard** is a Power BI project aimed at analyzing and visualizing customer retention trends, patterns, and metrics. It provides actionable insights to businesses for understanding factors affecting customer loyalty and devising strategies to improve retention rates.  
+The **Customer Retention Dashboard** is a Power BI project aimed at analyzing and visualizing customer retention trends, patterns, and metrics. It provides actionable insights to businesses for understanding factors affecting customer loyalty and devising strategies to improve retention rates.
+
+![Customer Retention Dashboard Preview](https://github.com/ReshmaaSelvaraj/Customer-Retention-Dashboard/blob/main/Customer%20Retention.png)  
+*A snapshot of the Customer Retention Dashboard built using Power BI.*    
 
 ## Key Features  
 
@@ -39,7 +39,7 @@ The dashboard is built using the following datasets:
 
 ## Links  
 - **[View Project on GitHub](https://github.com/ReshmaaSelvaraj/Customer-Retention-Dashboard)**  
-- **[Download Power BI File (.pbix)](https://github.com/ReshmaaSelvaraj/Customer-Retention-Dashboard/blob/main/CustomerRetentionDashboard.pbix)**  
+- **[Download Power BI File (.pbix)](https://github.com/ReshmaaSelvaraj/Customer-Retention-Dashboard/blob/main/customer%20Retention%20dashboard.pbix)**  
 
 ---  
 
